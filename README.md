@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div align="center">
 
   <!-- TOP HEADER / OC IMAGE -->
-  <img src="assets/harumone.jpg" width="180" alt="Avatar / OC" style="border-radius: 50%;">
+  <img src="assets/harumone.png" width="180" alt="Avatar / OC">
+  <br>
+  <img src="assets/cute-divider.svg" width="320" alt="cute divider">
 
   <h1>Hi, I'm Harumone 👋</h1>
   <p><i>Developer • Digital Artist • Cybersecurity Enthusiast</i></p>
@@ -65,14 +67,6 @@ Here are some ideas to get you started:
     <img src="assets/1.jpg" height="200" alt="ry fullbody">
   </p>
 </details>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harumoneairin&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats">
-</p>
 
 ---
 

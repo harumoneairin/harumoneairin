@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 32" width="350" height="32" fill="none">
+  <defs>
+    <!-- Gradients for subtle floral vine trails -->
+    <linearGradient id="vine-left" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB7C5" stop-opacity="0" />
+      <stop offset="100%" stop-color="#FFB7C5" stop-opacity="0.8" />
+    </linearGradient>
+    <linearGradient id="vine-right" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB7C5" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#FFB7C5" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Vine & Dotted Trail -->
+  <line x1="25" y1="16" x2="180" y2="16" stroke="url(#vine-left)" stroke-width="1.5" stroke-dasharray="3 3" />
+  
+  <!-- Tiny bud & leaf left -->
+  <circle cx="188" cy="16" r="2" fill="#FFB7C5" />
+  <path d="M194 16 C190 12 187 14 186 16 C187 18 190 19 194 16 Z" fill="#C8E6C9" />
+
+  <!-- Left Pink Blossom -->
+  <g transform="translate(208, 16)">
+    <!-- Small leaf behind -->
+    <path d="M-5 2 C-9 6 -12 4 -13 1 C-11 -2 -8 -1 -5 2 Z" fill="#B7E4C7" stroke="#A3D9B1" stroke-width="0.5" />
+    <!-- 5 petals -->
+    <g fill="#FFD1DC" stroke="#FF9AA2" stroke-width="0.6">
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(72)" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(144)" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(216)" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(288)" />
+    </g>
+    <!-- Center stamen -->
+    <circle cx="0" cy="0" r="2.2" fill="#FFFFFF" />
+    <circle cx="0" cy="0" r="1.1" fill="#FFE29A" />
+  </g>
+
+  <!-- Floating Falling Petal Left -->
+  <ellipse cx="230" cy="9" rx="2.8" ry="1.6" transform="rotate(-25 230 9)" fill="#FFFFFF" stroke="#FFB7C5" stroke-width="0.5" />
+
+  <!-- Main Center White & Pink Sakura Flower -->
+  <g transform="translate(250, 16)">
+    <!-- Soft Leaves Behind -->
+    <path d="M-6 -6 C-11 -12 -8 -16 -4 -15 C-1 -14 -2 -10 -6 -6 Z" fill="#B7E4C7" stroke="#A3D9B1" stroke-width="0.6" />
+    <path d="M6 6 C11 12 8 16 4 15 C1 14 2 10 6 6 Z" fill="#B7E4C7" stroke="#A3D9B1" stroke-width="0.6" />
+
+    <!-- 5 White/Soft Pink Sakura Petals with Heart-notched look -->
+    <g fill="#FFF5F7" stroke="#FFB7C5" stroke-width="0.8">
+      <ellipse cx="0" cy="-6.8" rx="4.2" ry="5.6" />
+      <ellipse cx="0" cy="-6.8" rx="4.2" ry="5.6" transform="rotate(72)" />
+      <ellipse cx="0" cy="-6.8" rx="4.2" ry="5.6" transform="rotate(144)" />
+      <ellipse cx="0" cy="-6.8" rx="4.2" ry="5.6" transform="rotate(216)" />
+      <ellipse cx="0" cy="-6.8" rx="4.2" ry="5.6" transform="rotate(288)" />
+    </g>
+
+    <!-- Inner Soft Pink Blush -->
+    <g fill="#FFB7C5" opacity="0.65">
+      <circle cx="0" cy="-3.5" r="2.5" />
+      <circle cx="0" cy="-3.5" r="2.5" transform="rotate(72)" />
+      <circle cx="0" cy="-3.5" r="2.5" transform="rotate(144)" />
+      <circle cx="0" cy="-3.5" r="2.5" transform="rotate(216)" />
+      <circle cx="0" cy="-3.5" r="2.5" transform="rotate(288)" />
+    </g>
+
+    <!-- Warm Golden Flower Center -->
+    <circle cx="0" cy="0" r="3.4" fill="#FFD166" />
+    <circle cx="0" cy="0" r="1.8" fill="#FFF275" />
+  </g>
+
+  <!-- Floating Falling Petal Right -->
+  <ellipse cx="270" cy="23" rx="2.8" ry="1.6" transform="rotate(30 270 23)" fill="#FFD1DC" stroke="#FF9AA2" stroke-width="0.5" />
+
+  <!-- Right Pink Blossom -->
+  <g transform="translate(292, 16)">
+    <!-- Small leaf behind -->
+    <path d="M5 2 C9 6 12 4 13 1 C11 -2 8 -1 5 2 Z" fill="#B7E4C7" stroke="#A3D9B1" stroke-width="0.5" />
+    <!-- 5 petals -->
+    <g fill="#FFD1DC" stroke="#FF9AA2" stroke-width="0.6">
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(72)" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(144)" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(216)" />
+      <ellipse cx="0" cy="-4.6" rx="2.8" ry="3.8" transform="rotate(288)" />
+    </g>
+    <!-- Center stamen -->
+    <circle cx="0" cy="0" r="2.2" fill="#FFFFFF" />
+    <circle cx="0" cy="0" r="1.1" fill="#FFE29A" />
+  </g>
+
+  <!-- Tiny bud & leaf right -->
+  <path d="M306 16 C310 12 313 14 314 16 C313 18 310 19 306 16 Z" fill="#C8E6C9" />
+  <circle cx="312" cy="16" r="2" fill="#FFB7C5" />
+
+  <!-- Right Vine & Dotted Trail -->
+  <line x1="320" y1="16" x2="475" y2="16" stroke="url(#vine-right)" stroke-width="1.5" stroke-dasharray="3 3" />
+</svg>
