@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <!-- TOP HEADER / OC IMAGE -->
-  <img src="assets/harumone.png" width="180" alt="Avatar / OC">
+  <!-- TOP HEADER / OC IMAGE WITH FLORAL WREATH -->
+  <img src="assets/harumone.png" width="230" alt="Avatar / OC">
   <br>
   <img src="assets/cute-divider.svg" width="320" alt="cute divider">
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
     <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
     <a href="https://pub.dev/packages/sqflite"><img src="https://img.shields.io/badge/sqflite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqflite"></a>
     <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
-    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></a>
   </p>
 
 </div>
@@ -39,20 +38,11 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 * 📱 **Focus:** Mobile Application Development & UI Design.
-* 🎨 **Creativity:** Original character design, digital illustration, and visual assets.
+* 🎨 **Creativity:** Original character design and digital illustration.
 * 🛠️ **Current Setup:** Building apps with **Flutter**, **Dart**, **sqflite**, and **Firebase**.
-* 🛡️ **Cybersecurity:** Blue Team operations, traffic analysis & digital forensics.
-* 🌱 **Currently Learning:** Web development fundamentals (**HTML5**, **CSS3**, **JavaScript**).
-
-<details>
-  <summary><b>🔍 View Digital Forensics & Security Toolkit</b></summary>
-  <br>
-
-  * 🧠 **Memory Forensics:** LiME (Linux Memory Extractor), Volatility
-  * 💾 **Disk & Artifact Analysis:** Autopsy
-  * 🌐 **Network Analysis:** Wireshark, tcpdump
-  * 🧩 **Data Decoding & Triage:** CyberChef, Hex/Base64 decoders
-</details>
+* 🌱 **Learning & Exploring:**
+  * 🌐 Fullstack Developer (**React**, **Node.js**, **JavaScript**, **Applied AI**).
+  * 🛡️ Cybersecurity (**Digital Forensics**, **Blue Team**, and **CTFs**).
 
 ---
 
